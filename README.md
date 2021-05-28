@@ -4,7 +4,7 @@ A simple example to test pretrained YOLO object detection model on a single imag
 
 [Check Load YOLOv5 from PyTorch Hub](https://github.com/ultralytics/yolov5/issues/36)
 
-To run the model install the requirements:
+To run the model, firstly install the requirements in a conda environment in **Python>=3.8**:
 
 > $ pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
 

@@ -8,7 +8,8 @@ To run the model, firstly install the requirements in a conda environment in **P
 
 > $ pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
 
-(to create a conda environment: run > $ conda create -n myenv python=3.8)
+to create a conda environment: 
+> $ conda create -n myenv python=3.8
 
 
 
